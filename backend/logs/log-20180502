@@ -1,0 +1,8 @@
+[2018-05-02 11:26:48.936] [INFO] <9968> - Start auto implement protocol...
+[2018-05-02 11:26:48.952] [INFO] <9968> - √ Auto implement protocol succ
+[2018-05-02 11:26:48.965] [INFO] <9968> - √ TSRPC inited succ
+[2018-05-02 11:26:48.971] [INFO] <9968> - √ Server started at 3000...
+[2018-05-02 11:27:05.948] [INFO] <9968> - [ApiReq] #e5c8ef72 /Demo ::1 { a: 'aaaa', b: [ 1, 2, 3 ], c: 'f', d: { d1: '6666', d2: 1111 } }
+[2018-05-02 11:27:05.952] [INFO] <9968> - [ApiRes] #e5c8ef72 
+[2018-05-02 11:27:20.247] [INFO] <9968> - [ApiReq] #12c5395f /Demo ::1 { a: 'aaaa', b: [ 1, 2, 3 ], c: 'f', d: { d1: '6666', d2: 1111 } }
+[2018-05-02 11:27:20.250] [INFO] <9968> - [ApiRes] #12c5395f 
