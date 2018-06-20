@@ -2,7 +2,13 @@ const path = require('path');
 const protocolPath = path.resolve(__dirname, 'shared/protocols')
 
 module.exports = {
-    entry: './src/index.ts',
+    entry: {
+        app: './src/index.ts'
+    },
+    output: {
+        filename: '[name].js',
+        path: path.resolve(__dirname, 'dist')
+    },
     resolve: {
         extensions: ['.ts', '.tsx', '.js'],
         symlinks: false

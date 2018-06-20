@@ -1,4 +1,4 @@
-import { TsrpcClient } from 'tsrpc-browser';
+import TsrpcClient from 'tsrpc-browser';
 import PtlDemo from '../shared/protocols/PtlDemo';
 import { ReqDemo } from '../shared/protocols/PtlDemo';
 
