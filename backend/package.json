@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "k8w-extend-native": "^0.1.6",
+    "k8w-extend-native": "*",
     "tsrpc": "^1.2.1"
   },
   "devDependencies": {
