@@ -24,5 +24,8 @@ module.exports = {
             },
             { test: /\.ts?$/, use: 'ts-loader' },
         ]
+    },
+    devServer: {
+        contentBase: path.resolve(__dirname)
     }
 }
